@@ -1,7 +1,7 @@
 {
   "Author": "Alamin islam",
   "version": "2.0.0",
-  "language": "en Bangla",
+  "language": "en",
   "DeveloperMode": false,
   "autoCreateDB": true,
   "autoClean": true,
